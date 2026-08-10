@@ -7,7 +7,7 @@
       "address": "atonevaloper17x76ltae2x4e93t8hry6fxeynlr29n7h9wzfmf",
       "restake": {
         "address": "atone12fu5nsxut8472g6e74lvygdnzcz3ss0mnjeylq",
-        "run_time": "every 3 hours",
+        "run_time": "every 12 hours",
         "minimum_reward": 1000
      }
     },
@@ -25,7 +25,7 @@
       "address": "yjayvaloper1zuv7m0jy4hrxyk4xxw65wfxu7mf0dywnc9y2en",
       "restake": {
         "address": "yjay12fu5nsxut8472g6e74lvygdnzcz3ss0md7nuer",
-        "run_time": "every 3 hours",
+        "run_time": "every 12 hours",
         "minimum_reward": 500000    
       }
     }
