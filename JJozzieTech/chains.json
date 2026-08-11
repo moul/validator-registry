@@ -1,0 +1,14 @@
+{
+     "$schema": "../chains.schema.json",
+     "name": "JJozzieTech",
+     "chains": [
+       {
+         "name": "kava",
+         "address": "kavavaloper1hymhtrelxqnf7p6ua06eh69u4kc36hq2sf9vtu"
+       },
+       {
+         "name": "akash",
+         "address": "akashvaloper1a5yj9fnua0tsmpxlage8c4uf2n3kq79jqcylm2"
+       }
+     ]
+   }
