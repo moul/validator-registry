@@ -12,6 +12,42 @@
       }
     },
     {
+      "name": "kiichain",
+      "address": "kiivaloper1jpvku8u4al5kx4zm3hqm9j9faw3qhx6sd7dyv6",
+      "restake": {
+        "address": "kii15xjdrn6t0dyzgzfs8nagmg04yjvn8ls46vc23j",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "safrochain",
+      "address": "addr_safrovaloper1sdlfp8n5fcfa7qw7770ngqs02k876gf6m749ly",
+      "restake": {
+        "address": "addr_safro1etsdevgm5ps240lrw9mg3p2j32tj96ktknykea",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "cysic",
+      "address": "cysicvaloper1jpvku8u4al5kx4zm3hqm9j9faw3qhx6sm0ysmp",
+      "restake": {
+        "address": "cysic15xjdrn6t0dyzgzfs8nagmg04yjvn8ls4qs4yu7",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "tac",
+      "address": "tacvaloper1lngjsefg92rpyjk9860wnm6mspkz9x2glelhgg",
+      "restake": {
+        "address": "tac15xjdrn6t0dyzgzfs8nagmg04yjvn8ls4xdspl8",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "bitway",
       "address": "bitwayvaloper1qqt3u8qvrsrpwzgcrugsw8gsq523kxsypv8su9qhpudsuqsqrg2sjwle0wp",
       "restake": {
